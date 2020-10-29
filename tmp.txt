@@ -1,0 +1,11 @@
+old password hash : $2y$10$NfLWLL9Mj6dCi0fQ3TBqWO53ZFsDlGUZmFl.gILMhHDHVi34XwWKW
+new password : admindeb
+
+        {{-- <?php
+                                        // $variants = DB::table('product_variants')
+                                        //         ->where('product_id',$product->id)
+                                        //         ->get();
+                                        //         foreach($variants as $variant){
+                                        //             echo $variant->variant."/ ";
+                                        //         }
+                                    ?> --}}
